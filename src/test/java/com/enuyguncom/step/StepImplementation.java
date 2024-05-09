@@ -1,4 +1,4 @@
-package com.arabamcom.step;
+package com.enuyguncom.step;
 
 import com.thoughtworks.gauge.Step;
 

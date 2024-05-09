@@ -1,6 +1,6 @@
-package com.arabamcom.step;
+package com.enuyguncom.step;
 
-import com.arabamcom.base.BaseTest;
+import com.enuyguncom.base.BaseTest;
 import com.enuyguncom.helper.ElementHelper;
 import com.enuyguncom.helper.StoreHelper;
 import com.enuyguncom.model.ElementInfo;
