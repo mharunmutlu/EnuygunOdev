@@ -2,50 +2,50 @@
 * "https://www.enuygun.com" adresine git
 
 # Nereden kısmını <text> ile doldur
-* Check if element "Nereden" exists
-* Click to element "Nereden"
+* Element var mı kontrol et "Nereden"
+* Elementine tıkla "Nereden"
 * <text> textini "Nereden_txt" elemente yaz
 * "Nereden_txt" elemeninte enter tuşunu gönder
 
 # Nereye ksımını <text> ile doldur
-* Check if element "Nereye" exists
-* Click to element "Nereye"
+* Element var mı kontrol et "Nereye"
+* Elementine tıkla "Nereye"
 * <text> textini "Nereye_txt" elemente yaz
 * "Nereye_txt" elemeninte enter tuşunu gönder
 
 # Gidiş <tarih> Tarihi seçilir
-* Check if element "Gidis_Tarih" exists
-* Click to element "Gidis_Tarih"
+* Element var mı kontrol et "Gidis_Tarih"
+* Elementine tıkla "Gidis_Tarih"
 * "Gidis_Gün" menu <tarih> tarihini seç
 
 # Dönüş <tarih> Tarihi Seçilir
-* Check if element "Donus_Tarih" exists
-* Click to element "Donus_Tarih"
+* Element var mı kontrol et "Donus_Tarih"
+* Elementine tıkla "Donus_Tarih"
 * "Donus_Gun" menu <tarih> tarihini seç
 
 # Ucuz Bilet Bul Butonuna tıkla
-* Check if element "Ucuz_Bilet_Bul_BTN" exists
-* Click to element "Ucuz_Bilet_Bul_BTN"
+* Element var mı kontrol et "Ucuz_Bilet_Bul_BTN"
+* Elementine tıkla "Ucuz_Bilet_Bul_BTN"
 
 # Gidiş Kalkış saati 10:00-18:00 arası seçilir
-* Check if element "Gidis-Varis-Saat" exists
-* Click to element "Gidis-Varis-Saat"
-* Check if element "Saat-Oglen" exists
-* Click to element "Saat-Oglen"
+* Element var mı kontrol et "Gidis-Varis-Saat"
+* Elementine tıkla "Gidis-Varis-Saat"
+* Element var mı kontrol et "Saat-Oglen"
+* Elementine tıkla "Saat-Oglen"
 
 # Gidiş Dönüş tarihleri kontrol edilir
 * "Kalkis-Saati" li element comparetexti içeriyor mu
 
 # Biletleri ucuzdan pahalıya sırala
-* Check if element "En_ucuz_BTN" exists
-* Click to element "En_ucuz_BTN"
+* Element var mı kontrol et "En_ucuz_BTN"
+* Elementine tıkla "En_ucuz_BTN"
 
 # Ucuzdan pahalıya sıralı mı kontrol et
-* "Price_Check" elementi ucuzdan pahalıya mı sıralı kontrol et
+* "Fiyat_Kontrol" elementi ucuzdan pahalıya mı sıralı kontrol et
 
 # Uçuş seç ve devam et
-* Check if element "Seç_devam_et" exists
-* Click to element "Seç_devam_et"
+* Element var mı kontrol et "Seç_devam_et"
+* Elementine tıkla "Seç_devam_et"
 
 # Rezervasyon Bilgilerini Doldur
 * "pihova1933@bsomek.com" textini "contact_email" elemente yaz
@@ -59,15 +59,15 @@
 * "Cinsiyet_Sec" menu listesinden rasgele seç
 
 # Devam Et butonuna tıkla
-* Check if element "Devam_Et_BTN" exists
-* Click to element "Devam_Et_BTN"
+* Element var mı kontrol et "Devam_Et_BTN"
+* Elementine tıkla "Devam_Et_BTN"
 
 # Ödeme Formu geldi mi kontrol et
-* Check if element "Odeme_Formu" exists
+* Element var mı kontrol et "Odeme_Formu"
 
 # Yolcu Sayısına tıklanır
-* Check if element "Yolcu_Sayisi" exists
-* Click to element "Yolcu_Sayisi"
+* Element var mı kontrol et "Yolcu_Sayisi"
+* Elementine tıkla "Yolcu_Sayisi"
 
 
 

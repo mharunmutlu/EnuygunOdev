@@ -52,7 +52,7 @@
   "value":"[data-testid='sortButtons0']",
   "type": "css"
 },{
-  "key": "Price_Check",
+  "key": "Fiyat_Kontrol",
   "value":"[data-testid='flightInfoPrice']",
   "type": "css"
 },{
