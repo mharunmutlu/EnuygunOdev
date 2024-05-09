@@ -1,0 +1,8 @@
+<testsuites>
+	<testsuite id="1" tests="1" failures="0" package="/Users/n100021/Desktop/EnuygunOdev/specs/example.spec" time="15.363" timestamp="2024-05-09T03:20:55" name="Enuygun Web" errors="0" hostname="N100021-MacBook-Air.local">
+		<properties></properties>
+		<testcase classname="Enuygun Web" name="Listelenen uçuşların 10:00 - 18:00 arası olduğunun kontrolü" time="15.363"></testcase>
+		<system-out></system-out>
+		<system-err></system-err>
+	</testsuite>
+</testsuites>

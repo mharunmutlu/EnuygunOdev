@@ -1,0 +1,141 @@
+[
+  {
+    "key": "Nereden",
+    "value":"[data-testid='flight-origin-label']",
+    "type": "css"
+  },{
+  "key": "Nereden_txt",
+  "value":"[data-testid='endesign-flight-origin-autosuggestion-input']",
+  "type": "css"
+},{
+  "key": "Nereye",
+  "value":"[data-testid='flight-destination-label']",
+  "type": "css"
+},{
+  "key": "Nereye_txt",
+  "value":"[data-testid='endesign-flight-destination-autosuggestion-input']",
+  "type": "css"
+},{
+  "key": "Gidis_Tarih",
+  "value":"[data-testid='enuygun-homepage-flight-departureDate-datepicker-popover-button']",
+  "type": "css"
+},{
+  "key": "Gidis_Gün",
+  "value":"[data-testid='datepicker-active-day']",
+  "type": "css"
+},{
+  "key": "Donus_Tarih",
+  "value":"[data-testid='enuygun-homepage-flight-returnDate-datepicker-popover-button']",
+  "type": "css"
+},{
+  "key": "Donus_Gun",
+  "value":"[data-testid='datepicker-active-day']",
+  "type": "css"
+},{
+  "key": "Ucuz_Bilet_Bul_BTN",
+  "value":"[data-testid='enuygun-homepage-flight-submitButton']",
+  "type": "css"
+},{
+  "key": "Gidis-Varis-Saat",
+  "value":"[class='ctx-filter-departure-return-time card-header']",
+  "type": "css"
+},{
+  "key": "Saat-Oglen",
+  "value":"div:nth-child(1) > div[class='filter-range-days'] > p:nth-child(3)",
+  "type": "css"
+},{
+  "key": "Kalkis-Saati",
+  "value":"div:nth-child(1) > div > div[class='filter-slider-content']",
+  "type": "css"
+},{
+  "key": "En_ucuz_BTN",
+  "value":"[data-testid='sortButtons0']",
+  "type": "css"
+},{
+  "key": "Price_Check",
+  "value":"[data-testid='flightInfoPrice']",
+  "type": "css"
+},{
+  "key": "Select_Flight",
+  "value":"[data-provider='project_pi']",
+  "type": "css"
+},{
+  "key": "Ucus_Paket",
+  "value":"[class='radio-input']",
+  "type": "css"
+},{
+  "key": "Seç_devam_et",
+  "value":"[data-testid='providerSelectBtn']",
+  "type": "css"
+},{
+  "key": "contact_email",
+  "value":"contact_email",
+  "type": "id"
+},{
+  "key": "contact_cellphone",
+  "value":"contact_cellphone",
+  "type": "id"
+},{
+  "key": "firstName",
+  "value":"firstName_0",
+  "type": "id"
+},{
+  "key": "lastName",
+  "value":"lastName_0",
+  "type": "id"
+},{
+  "key": "Dogum_Gunu",
+  "value":"#birthDateDay_0 > option",
+  "type": "css"
+},{
+  "key": "Dogum_Ay",
+  "value":"#birthDateMonth_0 > option",
+  "type": "css"
+},{
+  "key": "Dogum_Yil",
+  "value":"#birthDateYear_0 > option",
+  "type": "css"
+},{
+  "key": "Tc_No",
+  "value":"[data-testid='reservation-publicid-TR-input']",
+  "type": "css"
+},{
+  "key": "Cinsiyet_Sec",
+  "value":"div[class='form-group col-12 col-sm-6 col-md-6 col-lg-6']> div > div > div",
+  "type": "css"
+},{
+  "key": "Devam_Et_BTN",
+  "value":"continue-button",
+  "type": "id"
+},{
+  "key": "Odeme_Formu",
+  "value":"payment-form",
+  "type": "id"
+},{
+  "key": "Yolcu_Sayisi",
+  "value":"[data-testid='enuygun-homepage-flight-selectPassengerAndCabin']",
+  "type": "css"
+},{
+  "key": "Yetiskin_Sayisi",
+  "value":"[data-testid='flight-adult-counter-plus-button']",
+  "type": "css"
+},{
+  "key": "Cocuk_Sayisi",
+  "value":"[data-testid='flight-child-counter-plus-button']",
+  "type": "css"
+},{
+  "key": "Bebek_Sayisi",
+  "value":"[data-testid='flight-infant-counter-plus-button",
+  "type": "css"
+}
+]
+
+
+
+
+
+
+
+
+
+
